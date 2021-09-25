@@ -79,7 +79,7 @@ You can say thanks in the following ways
 
 The model used for the fascia was created by [JLI.space](https://www.thingiverse.com/JLIspace) and is licensed under the [Creative Commons - Attribution - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/) license. I initially tried printing this with my FDM printer but found the quality lacking, hence the link to order a high quality print via Shapeways.
 
-Many thanks to Renee Cousins of [The Buffee Accelerator Project](https://www.buffee.ca/about/) who helped me with button debounce on the code for the Digispark.
+Many thanks to Renee Cousins who helped me with button debounce on the code for the Digispark, check out her project [The Buffee Accelerator Project](https://www.buffee.ca/about/) an accelerated implementation of the motorolla 68000 processor that is a drop in hardware replacement for original chips.
 
 ## Amazon Part Links
 
