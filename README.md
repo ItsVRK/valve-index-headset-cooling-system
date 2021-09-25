@@ -12,7 +12,7 @@ At the time of writing I have been using it for almost a year so it has proven t
   - [Required Parts](#required-parts)
   - [Build Description](#build-description)
   - [How to say thanks](#how-to-say-thanks)
-  - [Attribution](#attribution)
+  - [Attributions](#attributions)
   - [Amazon Part Links](#amazon-part-links)
 
 ## Video
@@ -75,9 +75,11 @@ You can say thanks in the following ways
 
     [![Donate to future content development - QR Code](https://raw.githubusercontent.com/Konstruukt/Konstruukt/main/konstruukt_paypal_donate.png)](https://www.paypal.com/donate?hosted_button_id=4RTXPVU6FN5NW)
 
-## Attribution
+## Attributions
 
 The model used for the fascia was created by [JLI.space](https://www.thingiverse.com/JLIspace) and is licensed under the [Creative Commons - Attribution - Share Alike](https://creativecommons.org/licenses/by-sa/3.0/) license. I initially tried printing this with my FDM printer but found the quality lacking, hence the link to order a high quality print via Shapeways.
+
+Many thanks to Renee Cousins of [The Buffee Accelerator Project](https://www.buffee.ca/about/) who helped me with button debounce on the code for the Digispark.
 
 ## Amazon Part Links
 
