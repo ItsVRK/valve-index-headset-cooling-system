@@ -18,7 +18,7 @@ At the time of writing I have been using it for almost a year so it has proven t
 ## Video
 
 Please watch the following video for more information, and to see a demonstration.
-[![YouTube video of Valve Index Headset Cooling System](doc/screenshot_youtube.png)](https://www.youtube.com/watch?v=VIDEO-ID "Watch the video!")
+[![YouTube video of Valve Index Headset Cooling System](./images/screenshot_youtube.png)](https://www.youtube.com/watch?v=yYr2u5bprZA "Watch the video!")
 
 ## Required Tools
 
