@@ -66,14 +66,14 @@ Non-affiliate [Amazon part links](#amazon-part-links) are included below, you ca
 You can say thanks in the following ways
 
 - Give the youtube video a thumbs up
-- Subscribe to the [Konstruukt YouTube channel](https://youtube.com/Konstruukt)
+- Subscribe to the [ItsVRK YouTube channel](https://youtube.com/ItsVRK)
 - Give a shout out on Twitter [@Konstruukt](https://twitter.com/konstruukt)
-- Join the Konstruukt Discord server <https://discord.gg/Fv3buZ92pJ>
+- Join the ItsVRK Discord server <https://discord.gg/Fv3buZ92pJ>
 - If you value my content, I would be eternally grateful if you donate towards the cost of developing future material
 
     [![Donate to future content development](https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?hosted_button_id=4RTXPVU6FN5NW)
 
-    [![Donate to future content development - QR Code](https://raw.githubusercontent.com/Konstruukt/Konstruukt/main/konstruukt_paypal_donate.png)](https://www.paypal.com/donate?hosted_button_id=4RTXPVU6FN5NW)
+    [![Donate to future content development - QR Code](https://raw.githubusercontent.com/ItsVRK/ItsVRK/main/konstruukt_paypal_donate.png)](https://www.paypal.com/donate?hosted_button_id=4RTXPVU6FN5NW)
 
 ## Attributions
 
